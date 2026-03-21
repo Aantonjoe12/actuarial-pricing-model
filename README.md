@@ -1,11 +1,8 @@
 # Motor Insurance Pricing Model (GLM with Tweedie Distribution)
 
-This project builds an end‑to‑end motor insurance pricing model using a Tweedie
-Generalised Linear Model (GLM). It includes data preparation, modelling,
-pricing table generation, visualisation, and interpretation of results.
+his project builds a full motor insurance pricing model using a Tweedie GLM. It covers everything from preparing the data to modelling, creating the pricing table, visualising the results, and interpreting the final structure.
 
-The aim is to demonstrate a clear, actuarial‑style workflow for developing a
-pure premium model and converting model outputs into a pricing structure.
+The goal is to show a clear actuarial workflow for developing a pure premium model and turning the model outputs into a practical pricing structure.”
 
 ---
 
