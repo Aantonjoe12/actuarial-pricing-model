@@ -59,7 +59,7 @@ README.md
 ## Key Findings
 
 - **Power** and **Region** are the strongest predictors of risk  
-- **DriverAge** and **Density** have smaller but logical effects  
+- **DriverAge** and **Density** have smaller effects  
 - The pricing structure is stable, interpretable, and aligned with actuarial intuition  
 - The model provides a solid foundation for building a full pricing engine
 
